@@ -1,0 +1,4 @@
+========== Links to access Inclue Plataform ==========
+
+Source code: https://github.com/human-interaction-with-tecnologies/Inclue
+Plataform Link: https://inclue.vercel.app/
